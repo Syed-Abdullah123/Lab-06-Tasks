@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Six Grammer Rules", "Six Grammer Rules\Six Grammer Rules.csproj", "{A7B47160-06A8-4B1A-9E03-95E41DEF760D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B47160-06A8-4B1A-9E03-95E41DEF760D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B47160-06A8-4B1A-9E03-95E41DEF760D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B47160-06A8-4B1A-9E03-95E41DEF760D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B47160-06A8-4B1A-9E03-95E41DEF760D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E387B5D0-A37F-4BF2-B745-1C6B8C1FCFA8}
+	EndGlobalSection
+EndGlobal
